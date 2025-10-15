@@ -1,4 +1,4 @@
-wallpapers
+# wallpapers
 
 ---
 
@@ -64,6 +64,8 @@ wallpapers
 ![phone-ellen-joe-thights](phone-ellen-joe-thights.jpg)
 ![phone-miyabi-katana](phone-miyabi-katana.jpg)
 ![raid-in-the-dark](raid-in-the-dark.png)
+![rosepine-arch](rosepine-arch.jpg)
+![rosepine-portal-cake](rosepine-portal-cake.png)
 ![sakura-tree-pixel-moewalls-com](sakura-tree-pixel-moewalls-com.mp4)
 ![sakura](sakura.png)
 ![shigatuhakiminouso](shigatuhakiminouso.jpg)
